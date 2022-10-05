@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermisionRuntime</string>
+    <string name="permision_camera">Permision Camera</string>
+</resources>
